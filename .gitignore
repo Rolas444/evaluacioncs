@@ -1,0 +1,62 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+*.vspx
+*.vspxproj
+*.vspxproj.user
+*.vspxproj.vspscc
+*.vspxproj.vssscc
+
+# Archivos de configuración de sistema operativo
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+
+# Archivos de cobertura de pruebas
+TestResults/
+*.coverage
+*.coveragexml
+*.log
+
+# Archivos de documentación generada
+docs/
+*.pdf
+
+# Archivos de configuración de contenedores
+docker-compose.override.yml
+
+# Archivos de configuración de usuario
+.vscode/
+*.vs/
